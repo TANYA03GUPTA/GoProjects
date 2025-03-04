@@ -1,0 +1,3 @@
+module MICROSERVICE-CRUD
+
+go 1.23.4
